@@ -1,6 +1,8 @@
 grib2json
 =========
 
+un7 comment: "grib2json" can be found on GitHub at https://github.com/cambecc/grib2json. This is a copied project.
+
 A command line utility that decodes [GRIB2](http://en.wikipedia.org/wiki/GRIB) files as JSON.
 
 This utility uses the netCDF-Java GRIB decoder, part of the [THREDDS](https://github.com/Unidata/thredds) project
